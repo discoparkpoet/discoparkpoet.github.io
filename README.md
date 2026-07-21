@@ -5,7 +5,7 @@ Kelly Hartnett is a Seattle-based artist who values curiosity, connection, and p
 - Past: Printing methods, Hand-drawn type, [film making](https://vimeo.com/user254451710) 
 
 ## Connection
-- Current: Volunteer screenprinter with the Vera Project.
+- Current: Volunteer screenprinter with the Vera Project
 - Past: Volunteer trailbuilder with [Evergreen Mountain Bike Alliance](https://www.instagram.com/p/DKQUjIAhDPN/), watercolor group founder for [Wallingford Senior Center](https://wallingfordseniors.org/watercolor-painting-group-april-23-2025/)
 
 
