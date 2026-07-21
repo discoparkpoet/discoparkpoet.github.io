@@ -1,5 +1,12 @@
 Kelly Hartnett is a Seattle-based artist who values curiosity, connection, and peace.
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## Curiousity
 - Current: [Electronic music](https://soundcloud.com/discoparkpoet)
 - Past: Printing, Hand-drawn type, [Filmmaking](https://vimeo.com/user254451710) 
