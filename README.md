@@ -1,12 +1,16 @@
-Kelly Hartnett is a Seattle-based artist who finds genres to be a funny concept. 
+Kelly Hartnett is a Seattle-based artist who values curiosity, connection, and peace.
 
-## A second-level heading
-Text here. I’m a visual artist who is most energized by community and values-driven work. Early in my career, I was the sole designer on staff at a variety of non-profits including: the Ohio Center for Autism and Low Incidence Disease; Green Energy Ohio; and the Buckeye Bullet (world’s fastest electric car).
+## Curiousity
+Current: Electronic music
+Past: Printing methods, Hand-drawn type, Korean lettering and language
 ![happy goth](birdsong.jpg)
 
-More text here
-![happy goth](birdsong.jpg)
 
-## A second-level heading
-More text here. 
-I’m a visual artist who is most energized by community and values-driven work. Early in my career, I was the sole designer on staff at a variety of non-profits including: the Ohio Center for Autism and Low Incidence Disease; Green Energy Ohio; and the Buckeye Bullet (world’s fastest electric car).
+## Connection
+Current: Vera Project Screenprint committee
+Past: Volunteer trailbuilder with Evergreen Mountain Bike Alliance, Wallingford Senior Center Watercolor Class coordinator
+
+
+## Peace
+Current: Qigong
+Past: Watercolor, wood carving, Zen meditation
