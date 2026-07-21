@@ -9,7 +9,7 @@ Kelly Hartnett is a Seattle-based artist who values curiosity, connection, and p
 <br/>
 ## Curiousity
 - Current: [Electronic music](https://soundcloud.com/discoparkpoet)
-- Past: Printing, Hand-drawn type, [Filmmaking](https://vimeo.com/user254451710) 
+- Past: [Woodcarving](https://www.ptwoodschool.org/course-map/carving-handheld-sculptural-objects-2025), [Filmmaking](https://vimeo.com/user254451710) 
 
 ## Connection
 - Current: Volunteer screenprinter with the Vera Project
@@ -18,4 +18,4 @@ Kelly Hartnett is a Seattle-based artist who values curiosity, connection, and p
 
 ## Peace
 - Current: Qigong
-- Past: watercolor, wood carving, zen meditation, [poetry](https://www.blurb.com/user/kell-yeah)
+- Past:[zen meditation](https://www.sfzc.org/calendar/events/green-gulch-farm/mountains-rivers-and-great-earth-nature-koans-hidden-lamp-ggf-725), [poetry](https://www.blurb.com/user/kell-yeah)
