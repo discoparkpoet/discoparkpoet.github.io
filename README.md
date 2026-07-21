@@ -1,16 +1,14 @@
 Kelly Hartnett is a Seattle-based artist who values curiosity, connection, and peace.
 
 ## Curiousity
-- Current: Electronic music
-- Past: Printing methods, Hand-drawn type, Korean lettering and language
-![happy goth](birdsong.jpg)
-
+- Current: [Electronic music](https://soundcloud.com/discoparkpoet)
+- Past: Printing methods, Hand-drawn type, [film making](https://vimeo.com/user254451710) 
 
 ## Connection
-- Current: Vera Project Screenprint committee
-- Past: Volunteer trailbuilder with [Evergreen Mountain Bike Alliance](https://www.instagram.com/p/DKQUjIAhDPN/), [Wallingford Senior Center](https://wallingfordseniors.org/watercolor-painting-group-april-23-2025/) watercolor group leader coordinator
+- Current: Volunteer screenprinter with the Vera Project.
+- Past: Volunteer trailbuilder with [Evergreen Mountain Bike Alliance](https://www.instagram.com/p/DKQUjIAhDPN/), watercolor group founder for [Wallingford Senior Center](https://wallingfordseniors.org/watercolor-painting-group-april-23-2025/)
 
 
 ## Peace
 - Current: Qigong
-- Past: Watercolor, wood carving, Zen meditation
+- Past: watercolor, wood carving, zen meditation, [poetry](https://www.blurb.com/user/kell-yeah)
