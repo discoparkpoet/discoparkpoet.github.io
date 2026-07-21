@@ -8,7 +8,7 @@ Kelly Hartnett is a Seattle-based artist who values curiosity, connection, and p
 
 ## Connection
 - Current: Vera Project Screenprint committee
-- Past: Volunteer trailbuilder with Evergreen Mountain Bike Alliance, Wallingford Senior Center Watercolor Class coordinator
+- Past: Volunteer trailbuilder with [Evergreen Mountain Bike Alliance](https://www.instagram.com/p/DKQUjIAhDPN/), [Wallingford Senior Center](https://wallingfordseniors.org/watercolor-painting-group-april-23-2025/) watercolor group leader coordinator
 
 
 ## Peace
