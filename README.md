@@ -19,3 +19,15 @@ Kelly Hartnett is a Seattle-based artist who values curiosity, connection, and p
 ## Peace
 - Current: Qigong
 - Past: [Zen meditation](https://www.sfzc.org/calendar/events/green-gulch-farm/mountains-rivers-and-great-earth-nature-koans-hidden-lamp-ggf-725), [Self-published poetry](https://www.blurb.com/user/kell-yeah)
+
+
+## Projects
+<iframe id="data-blurb-bookshare-12940619" data-bindattr-103="103"
+		height="100%" data-bindattr-104="104"
+		width="100%" data-bindattr-105="105"
+		src="https://www.blurb.com/bookshare/app/index.html?bookId=12940619" data-bindattr-106="106"
+		frameborder=0
+		allowfullscreen=''
+		onload='this.focus()'
+		scrolling='no'>
+		</iframe>
