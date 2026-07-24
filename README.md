@@ -1,4 +1,4 @@
-Kelly Hartnett is a Seattle-based artist making [sound](##sound), [film](##silm), [code](##sode), and [magazines](##magazines).
+Kelly Hartnett is a Seattle-based artist making [sound](#sound), [film](#film), [code](#code), and [magazines](#magazines).
 <br/>
 <br/>
 <br/>
