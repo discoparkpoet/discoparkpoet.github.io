@@ -33,6 +33,3 @@ Kelly Hartnett is a Seattle-based artist making [sound](#Sound), [film](#Film), 
 - [Fear of being alone](https://www.blurb.com/b/12239756-fear-of-being-alone)
 - [Fear of being unhappy](https://www.blurb.com/b/12098119-fear-of-being-unhappy)
 - [Fear of being meaningless](https://www.blurb.com/b/11916114-fear-of-being-meaningless)
-
-## Print
-![image](birdsong.jpg)
