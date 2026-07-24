@@ -1,4 +1,4 @@
-Kelly Hartnett is a Seattle-based artist who values curiosity, connection, and peace.
+Kelly Hartnett is a Seattle-based artist.
 <br/>
 <br/>
 <br/>
@@ -7,27 +7,21 @@ Kelly Hartnett is a Seattle-based artist who values curiosity, connection, and p
 <br/>
 <br/>
 <br/>
-## Curiousity
-- Current: [Electronic music](https://soundcloud.com/discoparkpoet)
-- Past: [Woodcarving](https://www.ptwoodschool.org/course-map/carving-handheld-sculptural-objects-2025), [Filmmaking](https://vimeo.com/user254451710) 
+## Sound
+- [On patience](https://soundcloud.com/discoparkpoet/on-patience)
+- [Spooky soothing](https://soundcloud.com/discoparkpoet/spooky-soothing)
 
-## Connection
-- Current: Volunteer screenprinter with the Vera Project
-- Past: Volunteer trailbuilder with [Evergreen Mountain Bike Alliance](https://www.instagram.com/p/DKQUjIAhDPN/), watercolor group founder for [Wallingford Senior Center](https://wallingfordseniors.org/watercolor-painting-group-april-23-2025/)
+## Film
+- [This is winter too](https://vimeo.com/1163504102)
+- [Sou'wester morn](https://vimeo.com/1163505626)
+- [Jersey Club-ish](https://vimeo.com/1163501745)
 
+## Code
+- [Heart seance](https://heart-seance.vercel.app/)
 
-## Peace
-- Current: Qigong
-- Past: [Zen meditation](https://www.sfzc.org/calendar/events/green-gulch-farm/mountains-rivers-and-great-earth-nature-koans-hidden-lamp-ggf-725), [Self-published poetry](https://www.blurb.com/user/kell-yeah)
-
-
-## Projects
-<iframe id="data-blurb-bookshare-12940619" data-bindattr-103="103"
-		height="100%" data-bindattr-104="104"
-		width="100%" data-bindattr-105="105"
-		src="https://www.blurb.com/bookshare/app/index.html?bookId=12940619" data-bindattr-106="106"
-		frameborder=0
-		allowfullscreen=''
-		onload='this.focus()'
-		scrolling='no'>
-		</iframe>
+## Print
+- [Exercises in Attention](https://www.blurb.com/b/12940619-exercises-in-attention)
+- [Artist Atlas: Volume One](https://www.blurb.com/b/12770749-artist-atlas-volume-1)
+- [Fear of being alone](https://www.blurb.com/b/12239756-fear-of-being-alone)
+- [Fear of being unhappy](https://www.blurb.com/b/12098119-fear-of-being-unhappy)
+- [Fear of being meaningless](https://www.blurb.com/b/11916114-fear-of-being-meaningless)
