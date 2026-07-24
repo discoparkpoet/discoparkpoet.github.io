@@ -1,12 +1,6 @@
 Kelly Hartnett is a Seattle-based artist.
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 ## Sound
 - [On patience](https://soundcloud.com/discoparkpoet/on-patience)
 - [Spooky soothing](https://soundcloud.com/discoparkpoet/spooky-soothing)
