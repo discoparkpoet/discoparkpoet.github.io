@@ -13,7 +13,7 @@ Kelly Hartnett is a Seattle-based artist.
 ## Code
 - [Heart seance](https://heart-seance.vercel.app/)
 
-## Print
+## Publication
 - [Exercises in Attention](https://www.blurb.com/b/12940619-exercises-in-attention)
 - [Artist Atlas: Volume One](https://www.blurb.com/b/12770749-artist-atlas-volume-1)
 - [Fear of being alone](https://www.blurb.com/b/12239756-fear-of-being-alone)
