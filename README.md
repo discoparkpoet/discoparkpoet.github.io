@@ -1,7 +1,5 @@
 Kelly Hartnett is a Seattle-based artist making [sound](#sound), [film](#film), [code](#code), and [magazines](#magazines). 
 <br/>
-She infrequently checks [instagram](https://www.instagram.com/discoparkpoet), so it's best to reach her by [email](https://discoparkpoet.github.io/contact).
-<br/>
 <br/>
 <br/>
 <br/>
@@ -41,12 +39,13 @@ She infrequently checks [instagram](https://www.instagram.com/discoparkpoet), so
 <br/>
 <br/>
 <br/>
-
 <br/>
 <br/>
 <br/>
 <br/>
-
+Kelly infrequently checks [instagram](https://www.instagram.com/discoparkpoet), so it's best to reach her by [email](https://discoparkpoet.github.io/contact). 
+<br/>
+<br/>
 :)
 <br/>
 <br/>
