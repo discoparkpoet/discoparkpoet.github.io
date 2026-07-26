@@ -8,13 +8,6 @@ Kelly Hartnett is a Seattle-based artist making [sound](#sound), [film](#film), 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 ## Sound
 - [On patience](https://soundcloud.com/discoparkpoet/on-patience)
 - [Spooky soothing](https://soundcloud.com/discoparkpoet/spooky-soothing)
@@ -43,9 +36,6 @@ Kelly Hartnett is a Seattle-based artist making [sound](#sound), [film](#film), 
 <br/>
 <br/>
 <br/>
-Kelly infrequently checks [instagram](https://www.instagram.com/discoparkpoet), so it's best to reach her by [email](https://discoparkpoet.github.io/contact). 
-<br/>
-<br/>
-:)
+Kelly infrequently checks [instagram](https://www.instagram.com/discoparkpoet), so it's best to reach her by [email](https://discoparkpoet.github.io/contact) :)
 <br/>
 <br/>
