@@ -3,11 +3,6 @@ Kelly Hartnett is a Seattle-based artist making [sound](#sound), [film](#film), 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 ## Sound
 - [On patience](https://soundcloud.com/discoparkpoet/on-patience)
 - [Spooky soothing](https://soundcloud.com/discoparkpoet/spooky-soothing)
@@ -28,12 +23,7 @@ Kelly Hartnett is a Seattle-based artist making [sound](#sound), [film](#film), 
 - [Fear of being unhappy](https://www.blurb.com/b/12098119-fear-of-being-unhappy)
 - [Fear of being meaningless](https://www.blurb.com/b/11916114-fear-of-being-meaningless)
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 <br/>
 <br/>
 Kelly infrequently checks [instagram](https://www.instagram.com/discoparkpoet), so it's best to reach her by [email](https://discoparkpoet.github.io/contact) :)
