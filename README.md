@@ -1,4 +1,4 @@
-Kelly Hartnett is a Seattle-based artist.
+**Kelly Hartnett** is a Seattle-based inventor / designer / artist. Her favorite materials are paper and time. 
 <br/>
 <br/>
 <br/>
@@ -18,11 +18,12 @@ Kelly Hartnett is a Seattle-based artist.
 ## Code
 - [Heart seance](https://heart-seance.vercel.app/)
 
-
+## Sound
+- [Meditation on patience](https://soundcloud.com/discoparkpoet/on-patience)
+- [Spooky soothing](https://soundcloud.com/discoparkpoet/spooky-soothing)
 
 
 <br/>
 <br/>
-Kelly infrequently checks [instagram](https://www.instagram.com/discoparkpoet), so it's best to reach her by [email](https://discoparkpoet.github.io/contact) :)
 <br/>
 <br/>
