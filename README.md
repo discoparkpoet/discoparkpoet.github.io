@@ -10,8 +10,8 @@
 - [Fear of being meaningless](https://www.blurb.com/b/11916114-fear-of-being-meaningless)
 
 ## Ink
-- [Big ink 1](https://github.com/discoparkpoet/discoparkpoet.github.io/blob/main/bigink1.jpg?raw=true)
-- [Big ink 2](https://github.com/discoparkpoet/discoparkpoet.github.io/blob/main/bigink2.jpg?raw=true)
+- [Big ink 1](https://github.com/discoparkpoet/discoparkpoet.github.io/blob/main/bigink1.jpg?raw=true) 70" x 18", india ink on paper
+- [Big ink 2](https://github.com/discoparkpoet/discoparkpoet.github.io/blob/main/bigink2.jpg?raw=true) 92" x 18", india ink on paper
 
 ## Film
 - [birds arent real](https://vimeo.com/1212536439)
