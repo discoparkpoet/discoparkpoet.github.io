@@ -9,7 +9,7 @@
 - [Fear of being unhappy](https://www.blurb.com/b/12098119-fear-of-being-unhappy)
 - [Fear of being meaningless](https://www.blurb.com/b/11916114-fear-of-being-meaningless)
 
-## Prints
+## Ink
 - [Big ink 1](https://github.com/discoparkpoet/discoparkpoet.github.io/blob/main/bigink1.jpg?raw=true)
 - [Big ink 2](https://github.com/discoparkpoet/discoparkpoet.github.io/blob/main/bigink2.jpg?raw=true)
 
